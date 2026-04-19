@@ -75,6 +75,7 @@ For a more technical roadmap:
 Understanding real journeys helps beginners avoid mistakes.
 
  **[real web development learning journey](https://www.tumblr.com/techstack490/814055697774936064/i-was-confused-about-my-career-until-i-found-web?source=share)**  
+ 
  **[beginner-friendly web development guide](https://ext-6896025.livejournal.com/4144.html)**  
 
 ###  Career Growth Insights

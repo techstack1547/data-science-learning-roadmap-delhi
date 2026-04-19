@@ -14,7 +14,7 @@ A proper course helps you understand how data, machine learning, and real-world 
 
 
 
-##  What is Data Science?
+## What is Data Science?
 
 Data science is the process of extracting meaningful insights from data.
 
@@ -33,25 +33,25 @@ Companies use data science to:
 
 That’s why keywords like *data science course*, *data science course in Delhi*, and *data analyst training* are trending.
 
-##  Skills You Will Learn
+## Skills You Will Learn
 
 A well-structured **data science course in Delhi** focuses on both fundamentals and practical implementation.
 
-### ✔ Programming
+### Programming
 - Python  
 - Pandas  
 - NumPy  
 
-### ✔ Data Analysis
+### Data Analysis
 - Data cleaning  
 - Data transformation  
 - Visualization  
 
-### ✔ Machine Learning
+### Machine Learning
 - Supervised learning  
 - Unsupervised learning  
 
-### ✔ Tools
+### Tools
 - Power BI  
 - Tableau  
 - Jupyter Notebook  
@@ -70,7 +70,7 @@ You can explore this
 For a more technical roadmap:  
  **[web development roadmap for beginners](https://dev.to/techstack1/web-development-course-in-delhi-complete-roadmap-fees-skills-career-guide-2026-5296)**  
 
-### 📖 Learning from Real Experiences
+### Learning from Real Experiences
 
 Understanding real journeys helps beginners avoid mistakes.
 

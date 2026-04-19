@@ -1,4 +1,3 @@
-# data-science-learning-roadmap-delhi
 # Data Science Course in Delhi: Skills, Tools, Fees & Career Guide (2026)
 
 ##  Introduction
